@@ -55,9 +55,11 @@ This project demonstrates how to:
 
 ## 💡 Future Scope
 
-1.Real-time face count using webcam
-2.Integration with deep learning models (e.g., MTCNN, Dlib)
-3.Gender or age detection per face
-4.Create an attendance tracking system using face recognition
+1. Load the image from the system using file dialog.
+2. Convert the image to grayscale (as required by Haar Classifier).
+3. Load the pre-trained Haar Cascade for frontal face detection.
+4. Detect faces using `detectMultiScale()`.
+5. Draw rectangles around detected faces.
+6. Show the image and display the number of faces.
 
----
+
