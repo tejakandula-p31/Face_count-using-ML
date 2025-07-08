@@ -1,5 +1,3 @@
-# Face_count-using-ML
-
 # 👤 Face Count using ML
 
 A simple machine learning-based application that detects and counts the number of human faces in a given image using Python, OpenCV, and Haar Cascade classifiers.
@@ -46,5 +44,20 @@ This project demonstrates how to:
 
 ---
 
-## 📂 Project Structure
+## ✅ Applications
 
+1.Classroom or crowd analysis
+2.Surveillance systems
+3.People counting in public places
+4.Attendance automation (extension idea)
+
+---
+
+## 💡 Future Scope
+
+1.Real-time face count using webcam
+2.Integration with deep learning models (e.g., MTCNN, Dlib)
+3.Gender or age detection per face
+4.Create an attendance tracking system using face recognition
+
+---
